@@ -3,12 +3,16 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Nikil Ragav
+  * [LinkedIn](https://www.linkedin.com/in/nikil-ragav/)
+* Tested on: Windows 10, i7-7700HQ @ 2.80GHz 16GB, GTX 1060 6GB (Personal computer)
+* Also Tested on SEAS Virtual lab computer but those don't have NVidia GPUs :(
 
-### (TODO: Your README)
+### Read my sad story
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+This initial setup did not work because when I installed CUDA toolkit 10.1, my graphics driver for the 1060 card stopped working
+I get an Error 43 in my driver. From my research, this seems to be related to a driver signing issue.
 
+I spent 4 hours or so trying to remedy this situation to no avail (several safe mode restarts, using DDU, etc)
+
+Need to fix my GPU driver...
